@@ -1,11 +1,25 @@
-  /$$$$$$  /$$                               /$$   /$$                /$$$$$$                  /$$          
- /$$__  $$| $$                              |__/  | $$               /$$__  $$                | $$          
-| $$  \__/| $$$$$$$   /$$$$$$  /$$$$$$/$$$$  /$$ /$$$$$$    /$$$$$$ | $$  \__/  /$$$$$$   /$$$$$$$  /$$$$$$ 
-| $$      | $$__  $$ |____  $$| $$_  $$_  $$| $$|_  $$_/   /$$__  $$| $$       /$$__  $$ /$$__  $$ /$$__  $$
-| $$      | $$  \ $$  /$$$$$$$| $$ \ $$ \ $$| $$  | $$    | $$  \ $$| $$      | $$  \ $$| $$  | $$| $$$$$$$$
-| $$    $$| $$  | $$ /$$__  $$| $$ | $$ | $$| $$  | $$ /$$| $$  | $$| $$    $$| $$  | $$| $$  | $$| $$_____/
-|  $$$$$$/| $$  | $$|  $$$$$$$| $$ | $$ | $$| $$  |  $$$$/|  $$$$$$/|  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$
- \______/ |__/  |__/ \_______/|__/ |__/ |__/|__/   \___/   \______/  \______/  \______/  \_______/ \_______/
-                                                                                                            
-                                                                                                            
-                                                                                                            
+<pre> ```text                                                                                                                                                                                                                                               
+                                                                                                                                                                                    dddddddd                                                  
+        CCCCCCCCCCCCChhhhhhh                                                         iiii          tttt                                   CCCCCCCCCCCCC                             d::::::d                                       ))))))     
+     CCC::::::::::::Ch:::::h                                                        i::::i      ttt:::t                                CCC::::::::::::C                             d::::::d                                      )::::::))   
+   CC:::::::::::::::Ch:::::h                                                         iiii       t:::::t                              CC:::::::::::::::C                             d::::::d                                       ):::::::)) 
+  C:::::CCCCCCCC::::Ch:::::h                                                                    t:::::t                             C:::::CCCCCCCC::::C                             d:::::d                                         )):::::::)
+ C:::::C       CCCCCC h::::h hhhhh         aaaaaaaaaaaaa      mmmmmmm    mmmmmmm   iiiiiiittttttt:::::ttttttt       ooooooooooo    C:::::C       CCCCCC   ooooooooooo       ddddddddd:::::d     eeeeeeeeeeee                          )::::::)
+C:::::C               h::::hh:::::hhh      a::::::::::::a   mm:::::::m  m:::::::mm i:::::it:::::::::::::::::t     oo:::::::::::oo C:::::C               oo:::::::::::oo   dd::::::::::::::d   ee::::::::::::ee             ::::::      ):::::)
+C:::::C               h::::::::::::::hh    aaaaaaaaa:::::a m::::::::::mm::::::::::m i::::it:::::::::::::::::t    o:::::::::::::::oC:::::C              o:::::::::::::::o d::::::::::::::::d  e::::::eeeee:::::ee           ::::::      ):::::)
+C:::::C               h:::::::hhh::::::h            a::::a m::::::::::::::::::::::m i::::itttttt:::::::tttttt    o:::::ooooo:::::oC:::::C              o:::::ooooo:::::od:::::::ddddd:::::d e::::::e     e:::::e           ::::::      ):::::)
+C:::::C               h::::::h   h::::::h    aaaaaaa:::::a m:::::mmm::::::mmm:::::m i::::i      t:::::t          o::::o     o::::oC:::::C              o::::o     o::::od::::::d    d:::::d e:::::::eeeee::::::e                       ):::::)
+C:::::C               h:::::h     h:::::h  aa::::::::::::a m::::m   m::::m   m::::m i::::i      t:::::t          o::::o     o::::oC:::::C              o::::o     o::::od:::::d     d:::::d e:::::::::::::::::e                        ):::::)
+C:::::C               h:::::h     h:::::h a::::aaaa::::::a m::::m   m::::m   m::::m i::::i      t:::::t          o::::o     o::::oC:::::C              o::::o     o::::od:::::d     d:::::d e::::::eeeeeeeeeee                         ):::::)
+ C:::::C       CCCCCC h:::::h     h:::::ha::::a    a:::::a m::::m   m::::m   m::::m i::::i      t:::::t    tttttto::::o     o::::o C:::::C       CCCCCCo::::o     o::::od:::::d     d:::::d e:::::::e                      ::::::     )::::::)
+  C:::::CCCCCCCC::::C h:::::h     h:::::ha::::a    a:::::a m::::m   m::::m   m::::mi::::::i     t::::::tttt:::::to:::::ooooo:::::o  C:::::CCCCCCCC::::Co:::::ooooo:::::od::::::ddddd::::::dde::::::::e                     ::::::   )):::::::)
+   CC:::::::::::::::C h:::::h     h:::::ha:::::aaaa::::::a m::::m   m::::m   m::::mi::::::i     tt::::::::::::::to:::::::::::::::o   CC:::::::::::::::Co:::::::::::::::o d:::::::::::::::::d e::::::::eeeeeeee             ::::::  ):::::::)) 
+     CCC::::::::::::C h:::::h     h:::::h a::::::::::aa:::am::::m   m::::m   m::::mi::::::i       tt:::::::::::tt oo:::::::::::oo      CCC::::::::::::C oo:::::::::::oo   d:::::::::ddd::::d  ee:::::::::::::e                    )::::::)    
+        CCCCCCCCCCCCC hhhhhhh     hhhhhhh  aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmmiiiiiiii         ttttttttttt     ooooooooooo           CCCCCCCCCCCCC   ooooooooooo      ddddddddd   ddddd    eeeeeeeeeeeeee                     ))))))     
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                               ``` </pre>
